@@ -9,3 +9,5 @@ languages/
 # Local artifacts
 .tmp/
 app/models/
+
+.env

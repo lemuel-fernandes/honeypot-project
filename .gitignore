@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+# Large datasets not needed for Problem Statement 2 submission
+dataset/
+languages/
+
+# Local artifacts
+.tmp/
+app/models/
